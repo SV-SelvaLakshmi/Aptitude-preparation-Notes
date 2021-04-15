@@ -1,3 +1,3 @@
 # Aptitude-preparation-Notes
-#Resoning 
+# Resoning 
 - Image identification
